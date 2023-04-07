@@ -2,7 +2,7 @@ import Loading from 'components/loading/Loading';
 import { GetMoviesDetails } from 'getMovies';
 import { Suspense, useEffect, useRef, useState } from 'react';
 import picture from 'picture/PictureNotFaund.png';
-import { Link, Outlet, useLocation, useParams } from 'react-router-dom';
+import { Outlet, useLocation, useParams } from 'react-router-dom';
 import {
   Div,
   DivDescr,

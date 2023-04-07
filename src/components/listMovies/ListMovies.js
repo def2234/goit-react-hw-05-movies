@@ -1,5 +1,5 @@
 import { nanoid } from 'nanoid';
-import { Link, useParams } from 'react-router-dom';
+
 import { Item, Ul } from './ListMovies.styled.js';
 import PropTypes from 'prop-types';
 
